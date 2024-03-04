@@ -15,7 +15,7 @@ npm install dex-samp
 * timeout - default: 1000
 
 ```
-var query = require('dex-samp-query')
+var query = require('dex-samp')
 
 var options = {
 	host: 'play.dreamcityrp.tech'
