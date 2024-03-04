@@ -5,7 +5,7 @@
   "main": "dex-samp.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JJJ4n/node-samp-query.git"
+    "url": "https://github.com/NotSkDev/dex-samp-query"
   },
   "keywords": [
     "samp",
@@ -15,9 +15,9 @@
   ],
   "author": "NotSk.Dev <support@dexcord.xyz>",
   "bugs": {
-    "url": "https://github.com/JJJ4n/node-samp-query/issues"
+    "url": "https://github.com/NotSkDev/dex-samp-query/issues"
   },
-  "homepage": "https://github.com/JJJ4n/node-samp-query",
+  "homepage": "https://github.com/NotSkDev/dex-samp-query",
   "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
