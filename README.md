@@ -1,6 +1,8 @@
-# dex-samp-query
+**<p align="center"> <img src="https://cdn.discordapp.com/icons/979979944790745099/18806cfe3686114e2bfb149afe0a1d62.webp?size=2048 x 2048" /> </p>**
 
-Perfect Query API for SAMP
+<h1 align="center"> Dex-SA-MP-Query </h1>
+
+Perfect Query API for SAMP powered by [@DeXcOrD™](https://discord.gg/dexcord)
 
 ```
 npm install dex-samp
@@ -10,7 +12,7 @@ npm install dex-samp
 
 **Available options**
 
-* host
+* host - your server ip address
 * port - default: 7777
 * timeout - default: 1000
 
