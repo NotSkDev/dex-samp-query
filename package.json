@@ -1,17 +1,18 @@
 {
   "name": "dex-samp",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "Perfect Query API for SAMP by @DeXcOrD",
   "main": "dex-samp.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NotSkDev/dex-samp-query"
+    "url": "git+https://github.com/NotSkDev/dex-samp-query.git"
   },
   "keywords": [
     "samp",
     "query",
     "util",
-    "tool"
+    "server-status",
+    "server-details-fetch"
   ],
   "author": "NotSk.Dev <support@dexcord.xyz>",
   "bugs": {
